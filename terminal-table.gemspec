@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'terminal-table/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "terminal-table"
+  spec.name          = "leifcr-terminal-table"
   spec.version       = Terminal::Table::VERSION
   spec.authors       = ["TJ Holowaychuk", "Scott J. Goldman"]
   spec.email         = ["tj@vision-media.ca"]
